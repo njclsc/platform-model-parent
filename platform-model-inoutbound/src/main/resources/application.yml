@@ -1,0 +1,11 @@
+server:
+  port: 7628
+  servlet:
+    context-path: /iobound
+
+spring:
+  application:
+    name: iobound
+  profiles:
+    active:
+      - datasource
