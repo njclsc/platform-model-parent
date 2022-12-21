@@ -44,5 +44,7 @@ public class SourceConfig {
 		factory_tcp.openChannel(ContainerUtil.getCommunicationConfigPojo());
 		CommunicationChannelFactory factory_udp = new UDPFactory();
 		factory_udp.openChannel(ContainerUtil.getCommunicationConfigPojo());
+		//-------------
+		
 	}
 }
