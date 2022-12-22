@@ -1,0 +1,3 @@
+2022-12-22 14:31:51.401 - WARN  [           main] o.m.l.Logger                   : No MyBatis mapper was found in '[com.pyyh.inoutbound.starter]' package. Please check your configuration.
+2022-12-22 14:34:06.316 - WARN  [           main] o.m.l.Logger                   : No MyBatis mapper was found in '[com.pyyh.inoutbound.starter]' package. Please check your configuration.
+2022-12-22 14:35:41.209 - WARN  [           main] o.m.l.Logger                   : No MyBatis mapper was found in '[com.pyyh.inoutbound.starter]' package. Please check your configuration.

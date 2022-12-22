@@ -1,0 +1,48 @@
+2022-12-22 14:31:50.967 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting InOutBoundStarter on DESKTOP-NNCH05L with PID 10880 (D:\myeclipse2017space\platform-model-parent\platform-model-inoutbound\target\classes started by pyyh in D:\myeclipse2017space\platform-model-parent\platform-model-inoutbound)
+2022-12-22 14:31:50.974 - INFO  [           main] o.s.b.SpringApplication        : The following profiles are active: datasource
+2022-12-22 14:31:51.401 - WARN  [           main] o.m.l.Logger                   : No MyBatis mapper was found in '[com.pyyh.inoutbound.starter]' package. Please check your configuration.
+2022-12-22 14:31:51.766 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 7628 (http)
+2022-12-22 14:31:51.775 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-7628"]
+2022-12-22 14:31:51.776 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2022-12-22 14:31:51.777 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2022-12-22 14:31:51.909 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2022-12-22 14:31:51.909 - INFO  [           main] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 904 ms
+2022-12-22 14:31:52.626 - INFO  [           main] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2022-12-22 14:31:52.875 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-7628"]
+2022-12-22 14:31:52.888 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 7628 (http) with context path '/iobound'
+2022-12-22 14:31:52.890 - INFO  [           main] o.s.b.StartupInfoLogger        : Started InOutBoundStarter in 2.221 seconds (JVM running for 3.404)
+2022-12-22 14:34:02.162 - INFO  [2)-192.168.91.1] gistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-12-22 14:34:02.164 - INFO  [2)-192.168.91.1] c.a.d.p.DruidDataSource        : {dataSource-0} closing ...
+2022-12-22 14:34:02.164 - INFO  [2)-192.168.91.1] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2022-12-22 14:34:05.861 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting InOutBoundStarter on DESKTOP-NNCH05L with PID 4992 (D:\myeclipse2017space\platform-model-parent\platform-model-inoutbound\target\classes started by pyyh in D:\myeclipse2017space\platform-model-parent\platform-model-inoutbound)
+2022-12-22 14:34:05.867 - INFO  [           main] o.s.b.SpringApplication        : The following profiles are active: datasource
+2022-12-22 14:34:06.316 - WARN  [           main] o.m.l.Logger                   : No MyBatis mapper was found in '[com.pyyh.inoutbound.starter]' package. Please check your configuration.
+2022-12-22 14:34:06.657 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 7628 (http)
+2022-12-22 14:34:06.665 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-7628"]
+2022-12-22 14:34:06.666 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2022-12-22 14:34:06.666 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2022-12-22 14:34:06.797 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2022-12-22 14:34:06.798 - INFO  [           main] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 899 ms
+2022-12-22 14:34:07.514 - INFO  [           main] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2022-12-22 14:34:07.767 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-7628"]
+2022-12-22 14:34:07.779 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 7628 (http) with context path '/iobound'
+2022-12-22 14:34:07.781 - INFO  [           main] o.s.b.StartupInfoLogger        : Started InOutBoundStarter in 2.216 seconds (JVM running for 3.343)
+2022-12-22 14:35:01.529 - INFO  [2)-192.168.91.1] gistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-12-22 14:35:01.531 - INFO  [2)-192.168.91.1] c.a.d.p.DruidDataSource        : {dataSource-0} closing ...
+2022-12-22 14:35:01.531 - INFO  [2)-192.168.91.1] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2022-12-22 14:35:40.777 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting InOutBoundStarter on DESKTOP-NNCH05L with PID 7396 (D:\myeclipse2017space\platform-model-parent\platform-model-inoutbound\target\classes started by pyyh in D:\myeclipse2017space\platform-model-parent\platform-model-inoutbound)
+2022-12-22 14:35:40.783 - INFO  [           main] o.s.b.SpringApplication        : The following profiles are active: datasource
+2022-12-22 14:35:41.209 - WARN  [           main] o.m.l.Logger                   : No MyBatis mapper was found in '[com.pyyh.inoutbound.starter]' package. Please check your configuration.
+2022-12-22 14:35:41.560 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 7628 (http)
+2022-12-22 14:35:41.568 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-7628"]
+2022-12-22 14:35:41.569 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2022-12-22 14:35:41.569 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2022-12-22 14:35:41.705 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2022-12-22 14:35:41.706 - INFO  [           main] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 893 ms
+2022-12-22 14:35:42.480 - INFO  [           main] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2022-12-22 14:35:42.736 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-7628"]
+2022-12-22 14:35:42.748 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 7628 (http) with context path '/iobound'
+2022-12-22 14:35:42.751 - INFO  [           main] o.s.b.StartupInfoLogger        : Started InOutBoundStarter in 2.278 seconds (JVM running for 3.401)
+2022-12-22 14:35:51.089 - INFO  [2)-192.168.91.1] gistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-12-22 14:35:51.090 - INFO  [2)-192.168.91.1] c.a.d.p.DruidDataSource        : {dataSource-0} closing ...
+2022-12-22 14:35:51.091 - INFO  [2)-192.168.91.1] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
